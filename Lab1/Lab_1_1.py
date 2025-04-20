@@ -57,7 +57,5 @@ def main():
     plt.legend()
     plt.show()
 
-    return file[columns[1]], [a*i+b for i in file[columns[0]]]
-
 if __name__ == '__main__':
     main()
