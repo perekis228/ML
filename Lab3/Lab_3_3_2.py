@@ -25,14 +25,14 @@ def evaluate_model(y, y_pred, model):
     recall = recall_score(y, y_pred)
     f1 = f1_score(y, y_pred)
 
-    print(f"\nМетрики для {model}:")
-    print(f"Precision: {precision:.3f}")
-    print(f"Recall: {recall:.3f}")
-    print(f"F1-score: {f1:.3f}")
+    print(f'\nМетрики для {model}:')
+    print(f'Precision: {precision:.3f}')
+    print(f'Recall: {recall:.3f}')
+    print(f'F1-score: {f1:.3f}')
 
-evaluate_model(y_test, y_pred_lin, "Logistic Regression")
-evaluate_model(y_test, y_pred_svm, "SVM")
-evaluate_model(y_test, y_pred_knn, "KNN")
+evaluate_model(y_test, y_pred_lin, 'Logistic Regression')
+evaluate_model(y_test, y_pred_svm, 'SVM')
+evaluate_model(y_test, y_pred_knn, 'KNN')
 
 #Матрицы ошибок
 import seaborn as sns

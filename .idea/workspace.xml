@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2123ad08-c195-49a3-8787-40c08d02e07e" name="Changes" comment="Lab1">
-      <change afterPath="$PROJECT_DIR$/Lab1/Lab_1_2_ipynb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Lab_3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Lab_3_2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Lab_3_2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Lab_3_3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Lab_3_3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Titanic.csv" afterDir="false" />
+    <list default="true" id="2123ad08-c195-49a3-8787-40c08d02e07e" name="Changes" comment="Lab1 correction + Lab3">
+      <change afterPath="$PROJECT_DIR$/Lab5/Lab_5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/Lab_5_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/Lab_5_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/diabetes.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/Lab_1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Lab_1_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/Lab_1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Lab_1_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Lab_3_3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab_3_3_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +50,10 @@
     "Python.Lab_3_2_2.executor": "Run",
     "Python.Lab_3_3.executor": "Run",
     "Python.Lab_3_3_2.executor": "Run",
+    "Python.Lab_5_1.executor": "Run",
+    "Python.Lab_5_2.executor": "Run",
+    "Python.Lab_5_2_1.executor": "Run",
+    "Python.Lab_5_2_2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -61,6 +61,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PythonUniversity\ML\Lab5" />
       <recent name="C:\PythonUniversity\ML\Lab3" />
       <recent name="C:\PythonUniversity\ML\Lab1" />
       <recent name="C:\PythonUniversity\ML" />
@@ -119,11 +120,20 @@
       <option name="project" value="LOCAL" />
       <updated>1745075109308</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab1 correction + Lab3">
+      <option name="closed" value="true" />
+      <created>1745176033400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745176033400</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab1" />
+    <MESSAGE value="Lab1 correction + Lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab1 correction + Lab3" />
   </component>
 </project>
